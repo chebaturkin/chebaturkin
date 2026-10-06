@@ -7,4 +7,4 @@
 - [chebaturkin.studio](https://chebaturkin.studio) — авторская студия сайтов и смысловой сборки.
 - [chebaturkin.com](https://chebaturkin.com) — мой личный сайт, публикации и проекты.
 
-[ещё обо мне →](https://chebaturkin.com) · [написать в Telegram →](https://t.me/chebaturkin)
+[ещё обо мне ](https://chebaturkin.com) · [ написать в Telegram →](https://t.me/chebaturkin)
