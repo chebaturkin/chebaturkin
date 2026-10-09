@@ -1,10 +1,7 @@
-я проектирую и создаю понятные цифровые продукты: сайты, приложения, системы.
+i design and create websites and apps that are easy to use.
 
-сейчас в работе:
+[website](https://chebaturkin.com) · [telegram](https://t.me/chebaturkin) · [chebaturkin studio](https://chebaturkin.studio)
 
-- [поток](https://свойпоток.рф) — учебное пространство для студентов ИГЭУ: расписание, конспекты и материалы.
-- [dayflow](https://github.com/chebaturkin/dayflow) — local-first планировщик дня с экспортом в ICS и PNG.
-- [chebaturkin.studio](https://chebaturkin.studio) — авторская студия сайтов и смысловой сборки.
-- [chebaturkin.com](https://chebaturkin.com) — мой личный сайт, публикации и проекты.
+[chebaturkin copy](https://github.com/chebaturkin/chebaturkin-copy) — an ai agent skill for clear writing and editing.
 
-[ещё обо мне ](https://chebaturkin.com) · [ написать в Telegram →](https://t.me/chebaturkin)
+[поток](https://xn--b1aodobafmo.xn--p1ai/) — class schedules, notes, and study materials for university students.
