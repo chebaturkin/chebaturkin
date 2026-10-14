@@ -1,9 +1,9 @@
 создаю понятные и удобные сайты и приложения
 
 
-[chebaturkin copy](https://github.com/chebaturkin/chebaturkin-copy) — an ai agent skill for clear writing and editing. 
+[chebaturkin copy](https://github.com/chebaturkin/chebaturkin-copy) — скилл для написания ясных и понятных текстов.
 
-[поток](https://xn--b1aodobafmo.xn--p1ai/) — class schedules, notes, and study materials for university students.
+[поток](https://xn--b1aodobafmo.xn--p1ai/) — учебное пространство для твоей группы в вузе.
 
 
 [website](https://chebaturkin.com) · [telegram](https://t.me/chebaturkin) · [chebaturkin studio](https://chebaturkin.studio)
