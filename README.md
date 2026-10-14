@@ -1,4 +1,4 @@
-i design and create websites and apps that are easy to use.
+создаю понятные и удобные сайты и приложения
 
 
 [chebaturkin copy](https://github.com/chebaturkin/chebaturkin-copy) — an ai agent skill for clear writing and editing. 
